@@ -57,7 +57,9 @@ class AddTask extends Component {
           onChange={this.handleChceckbox}
           id="important"
         />
-        <label htmlFor="important">Priorytet</label>
+        <label htmlFor="important" className="sp">
+          Priorytet
+        </label>
         <br />
         <label htmlFor="date">Do kiedy zrobić</label>
         <input

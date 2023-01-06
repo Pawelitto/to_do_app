@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Task = (props) => {
-  const style = { color: 'red' };
+  const style = { color: '#E5B8F4' };
   const { text, date, id, active, important, finishDate } = props.task;
 
   if (active) {

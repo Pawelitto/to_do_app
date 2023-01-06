@@ -1,4 +1,23 @@
 .App {
   text-align: center;
   padding: 15px;
+  background-color: #395b64;
+  color: #e7f6f2;
+}
+
+h3 {
+  color: #a5c9ca;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 2px solid #a5c9ca;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.sp {
+  color: #e5b8f4;
 }
